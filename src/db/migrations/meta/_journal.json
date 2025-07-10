@@ -8,6 +8,13 @@
       "when": 1752070812580,
       "tag": "0000_bumpy_harpoon",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752156583682,
+      "tag": "0001_clever_bishop",
+      "breakpoints": true
     }
   ]
 }
