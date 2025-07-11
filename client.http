@@ -32,6 +32,7 @@ Content-Type: application/json
 GET {{baseUrl}}/rooms/{{roomId}}/questions
 
 ###
+
 # Create Question
 # @name createQuestion
 POST {{baseUrl}}/rooms/{{roomId}}/questions
